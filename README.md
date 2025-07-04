@@ -1,7 +1,7 @@
 ## Hi there 👋
-🌱 What I'm Up To
-Studying Machine Learning .
-Working on bots and backend systems .
+🌱 What I'm Up To ...
+Studying Machine Learning ...
+Working on bots and backend systems ...
 <!--
 **kartik0697/kartik0697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
