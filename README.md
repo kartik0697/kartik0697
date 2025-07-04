@@ -1,8 +1,28 @@
-## Hi there 👋
-🌱 What I'm Up To ...
-Studying Machine Learning ...
-Working on bots and backend systems ...
-<!--
+I'm Hadyy
+
+🌱 What I'm Up To
+
+
+
+
+
+Studying Machine Learning
+
+
+
+Working on bots and backend systems
+
+📫 How to Reach Me
+
+
+
+
+
+Twitter/X: @Hadyylol
+
+
+
+Email: 0xhadyy@gmail.com
 **kartik0697/kartik0697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
